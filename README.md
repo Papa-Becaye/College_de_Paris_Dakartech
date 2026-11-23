@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Module Excel – 1ère année
-permalink: /introduction/
+permalink: /
 ---
 
 # Module Excel – 1ère année
