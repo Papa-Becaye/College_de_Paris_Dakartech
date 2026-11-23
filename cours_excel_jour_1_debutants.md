@@ -1,4 +1,8 @@
-# Cours Excel -- Jour 1
+---
+layout: default
+title: Cours Excel -- Jour 1
+permalink: /jour_1/
+---
 
 ## Prise en main, calculs, mise en forme et graphiques
 
