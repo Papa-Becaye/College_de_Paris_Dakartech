@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cours Excel -- Jour 1
+title: Cours Excel VBA
 permalink: /jour_1/
 ---
 ![Infographie pédagogique – Excel Jour 1](jour1_banner_lg.jpeg)
