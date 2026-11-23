@@ -3,7 +3,7 @@ layout: default
 title: Cours Excel -- Jour 1
 permalink: /jour_1/
 ---
-![Infographie pédagogique – Excel Jour 1](jour1_banner.jpeg)
+![Infographie pédagogique – Excel Jour 1](jour1_banner_lg.jpeg)
 # Prise en main, calculs, mise en forme et graphiques
 
 **Formation :** 1ère année -- Soft Skills  
